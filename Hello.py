@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Titel der Seite setzen
-st.title('pitchnext Lab')
+st.title('pitchnext lab')
 
 # Passwortabfrage
 password = st.text_input("Bitte geben Sie das Passwort ein:", type="password")
